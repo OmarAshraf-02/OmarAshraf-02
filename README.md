@@ -1,5 +1,5 @@
 - I have experience with Object Oriented Programming and Java in particular
-- I'm looking to improve my skills with Java and OOP, as well as learning python and web development
+- I'm looking to improve my skills with OOP, as well as learning python and web development
 
 <!---
 OmarAshraf-02/OmarAshraf-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
