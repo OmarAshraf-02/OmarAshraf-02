@@ -1,3 +1,7 @@
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2000&pause=1000&color=C3C9DA&background=292C34&center=true&vCenter=true&multiline=true&random=true&width=600&height=120&lines=Hello%2C+I'm+Omar+Ashraf;Welcome+to+my+profile" alt="Typing SVG" /></a>
+</h1>
+
 <!--
 **OmarAshraf-02/OmarAshraf-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
