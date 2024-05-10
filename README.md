@@ -4,17 +4,27 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=1000&color=C3C9DA&center=true&vCenter=true&random=true&width=800&height=120&lines=Hello%2C+I'm+Omar+Ashraf;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </h1>
 
-<!--
-**OmarAshraf-02/OmarAshraf-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A computer engineering student at the GUC and an aspiring software engineer from Egypt 🇪🇬</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+ I’m currently working on **a programming language REST API**
+ 
+ I’m currently learning **C#, ASP.NET Core, Vue**
+
+ </div>
+
+ <div align="center">
+  <a href="mailto:omar@omarashraf.dev">
+    <img src="https://img.shields.io/badge/Email-292C34?style=for-the-badge&logo=gmail&logoColor=BD78E1" />
+  </a>
+  <a href="https://linkedin.com/in/omarashraf02" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ </div>
+
+ <hr/>
+
+
