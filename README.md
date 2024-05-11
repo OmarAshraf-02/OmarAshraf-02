@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Email-292C34?style=for-the-badge&logo=gmail&logoColor=BD78E1" />
   </a>
   <a href="https://linkedin.com/in/omarashraf02" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-292C34?style=for-the-badge&logo=linkedin&logoColor=BD78E1" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-292C34?style=for-the-badge&logo=linkedin&logoColor=BD78E1" />
   </a>
  </div>
 
