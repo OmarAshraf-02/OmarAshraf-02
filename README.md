@@ -7,7 +7,7 @@
 
 ###
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OmarAshraf-02&theme=onedark&hide_border=true&card_width=535" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OmarAshraf-02&theme=onedark&hide_border=true&card_width=535&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarAshraf-02&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=one_dark_pro&locale=en&hide_border=false" height="150" alt="stats graph"  />
