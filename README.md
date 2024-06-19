@@ -19,9 +19,7 @@
 
 <div align="center">
  
- I’m currently working on **a programming language REST API**
- 
- I’m currently learning **C#, ASP.NET Core, Vue**
+ I’m currently learning **C# & ASP.NET Core**
 
  </div>
 
