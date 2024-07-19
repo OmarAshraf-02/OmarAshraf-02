@@ -14,7 +14,7 @@
 
 ###
 <br/>
-<h3 align="center">A computer engineering student at the GUC and an aspiring software engineer from Egypt 🇪🇬</h3>
+<h3 align="center">Computer Engineering Student at the GUC & Software Engineer from Egypt 🇪🇬</h3>
 
 <br/>
 
