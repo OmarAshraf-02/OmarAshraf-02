@@ -7,8 +7,10 @@
 
 ###
 <div align="center">
+  
   <img src="https://github-readme-stats-ten-puce-42.vercel.app/api?username=OmarAshraf-02&theme=catppuccin_mocha&hide=stars,issues&show_icons=true&rank_icon=github" />
   <img src="https://github-readme-stats-ten-puce-42.vercel.app/api/top-langs?username=OmarAshraf-02&locale=en&hide_title=false&langs_count=6&theme=catppuccin_mocha&hide_border=false&hide_progress=true" alt="languages graph" height="150  />
+    
 </div>
     
 ###
