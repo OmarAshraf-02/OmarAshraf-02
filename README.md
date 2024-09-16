@@ -19,12 +19,6 @@
 
 <br/>
 
-<div align="center">
- 
- I’m currently learning **C# & ASP.NET Core**
-
- </div>
-
  <div align="center">
   <a href="mailto:omar@omarashraf.dev">
     <img src="https://img.shields.io/badge/Email-292C34?style=for-the-badge&logo=gmail&logoColor=BD78E1" />
