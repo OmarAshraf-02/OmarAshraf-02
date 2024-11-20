@@ -4,18 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=1000&color=C3C9DA&center=true&vCenter=true&random=true&width=800&height=120&lines=Hello%2C+I'm+Omar+Ashraf;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </h1>
 
-
-###
-<div align="center">
-  
-  <img src="https://github-readme-stats-ten-puce-42.vercel.app/api?username=OmarAshraf-02&theme=catppuccin_mocha&hide=stars,issues&show_icons=true&rank_icon=github" />
-  <img src="https://github-readme-stats-ten-puce-42.vercel.app/api/top-langs?username=OmarAshraf-02&locale=en&hide_title=false&langs_count=6&theme=catppuccin_mocha&hide_border=false&hide_progress=true" alt="languages graph" height="150  />
-    
-</div>
-    
-###
-
-<h2 align="center">Computer Engineering Student at the GUC & Software Engineer from Egypt 🇪🇬</h3>
+<h2 align="center">Computer Engineering Student at the GUC & Software Engineer from Egypt 🇪🇬</h2>
 
 <br/>
 
